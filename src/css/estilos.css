@@ -227,8 +227,5 @@ body {
 }
 
 .video .video-centro {
-	margin: 0 auto;
-	display: block;
-	width: 750px;
 	text-align: center;
 }
