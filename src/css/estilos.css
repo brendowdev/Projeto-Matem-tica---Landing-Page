@@ -225,10 +225,3 @@ body {
 .baixe-ja .btn-plataforma .plataformas li:nth-child(5):hover {
 	background-color: #fcaf17;
 }
-
-.video {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
