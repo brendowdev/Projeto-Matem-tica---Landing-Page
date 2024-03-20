@@ -225,9 +225,3 @@ body {
 .baixe-ja .btn-plataforma .plataformas li:nth-child(5):hover {
 	background-color: #fcaf17;
 }
-
-.video .video-especifico {
-	margin: 0 auto;
-        width: 500px;
-	display: block;
-}
