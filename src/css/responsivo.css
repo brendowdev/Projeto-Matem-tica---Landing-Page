@@ -32,16 +32,16 @@
     padding: 30px;
   }
 
-  .compre-ja .cartao {
+  .baixe-ja .cartao {
     padding: 80px 20px;
     width: 100%;
   }
 
-  .compre-ja .informacoes h3 {
+  .baixe-ja .informacoes h3 {
     font-size: 35px;
   }
 
-  .compre-ja .informacoes .plataformas {
+  .baixe-ja .informacoes .plataformas {
     flex-direction: column;
   }
 
@@ -50,7 +50,7 @@
     padding: 15px;
   }
 
-  .btn-comprar {
+  .btn-baixar {
     width: 100%;
   }
 }
@@ -60,7 +60,7 @@
     background: linear-gradient(90deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.4) 100%, transparent 65%);
   }
 
-  .compre-ja .cartao .capa-do-jogo {
+  .baixe-ja .cartao .capa-do-aplicativo {
     max-width: 80%;
   }
 }
